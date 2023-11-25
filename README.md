@@ -17,7 +17,7 @@
 ## Proje Hakkında
 Yakında düzenlenecek
 
-## License
+## Lisans
 
 GPL Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [LİSANS](https://github.com/drawsl/csharp-egzersizleri/blob/master/LICENSE) dosyasına bakınız..
 ## Yapımcılar
