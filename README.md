@@ -22,4 +22,4 @@ Yakında düzenlenecek
 GPL Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [LİSANS](https://github.com/drawsl/csharp-egzersizleri/blob/master/LICENSE) dosyasına bakınız..
 ## Yapımcılar
 
-* **drawsl** - *Lise 2 Bilişim Teknolojileri* - [drawsl](https://github.com/drawsl/) - *Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi*
+* **drawsl** - *Lise 2 Bilişim Teknolojileri* - [Enes Yasin Divrengi](https://github.com/drawsl/) - *Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi*
