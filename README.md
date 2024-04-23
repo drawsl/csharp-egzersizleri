@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
-  <h3 align="center">C# - Egzersizlerim</h3>
+  <h3 align="center">C# - Egzersizleri</h3>
 
   <p align="center">
-    Yakında eklemeler yapacağım.
+    Boş vakitlerimde yaptığım projeleri depoluyorum.
     <br/>
     <br/>
     <a href="https://github.com/drawsl/csharp-egzersizleri/issues">Hata Bildir</a>
@@ -12,14 +12,28 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/drawsl/csharp-egzersizleri/total) ![Contributors](https://img.shields.io/github/contributors/drawsl/csharp-egzersizleri?color=dark-green) ![Forks](https://img.shields.io/github/forks/drawsl/csharp-egzersizleri?style=social) ![Issues](https://img.shields.io/github/issues/drawsl/csharp-egzersizleri) ![License](https://img.shields.io/github/license/drawsl/csharp-egzersizleri) 
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/drawsl/csharp-egzersizleri?color=dark-green">
+  <img src="https://img.shields.io/github/forks/drawsl/csharp-egzersizleri?style=social">
+  <img src="https://img.shields.io/github/issues/drawsl/csharp-egzersizleri">
+  <img src="https://img.shields.io/github/license/drawsl/csharp-egzersizleri">
+</p>
 
 ## Proje Hakkında
-Yakında düzenlenecek
+Boş vakitlerimde ve Laboratuvar ortamında yapmış olduğum projeleri paylaştığım bir repository
+
+#### Teknolojiler:
+
+* C# Programlama dili kullanılarak Windows Forms Application ile geliştirilmiştir.
+* Geliştirme ortamı olarak Visual Studio IDE kullanılmıştır.
+
+#### Projeyi Başlatma:
+   - Proje dosyalarını Visual Studio veya tercih ettiğiniz bir IDE ile açın.
+   - Projeyi derleyin ve başlatın.
 
 ## Lisans
 
-MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [LİSANS](https://github.com/drawsl/csharp-egzersizleri/blob/master/LICENSE) dosyasına bakınız..
+* GPL-v3 Lisansı altında dağıtılmaktadır. Daha fazla bilgi için [LİSANS](https://github.com/drawsl/csharp-egzersizleri/blob/master/LICENSE) dosyasına bakınız..
 ## Yapımcılar
 
-* **drawsl** - *Lise 2 Bilişim Teknolojileri* - [Enes Yasin Divrengi](https://enesyasin.com.tr) - *Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi*
+* **[drawsly](https://github.com/drawsl)** - *10. Sınıf Bilişim Teknolojileri* - [Enes Yasin Divrengi](https://enesyasin.com.tr) - *Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi*
